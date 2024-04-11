@@ -1,6 +1,7 @@
 # OPENSDETENN
 #### Efficient, Self-Sufficient, Self-Driving Wow
 
+[comment]: <> (THIS IS SORTED ALPHABETICALLY)
 **Actual Team:**
 - Alex - [@T74Y](https://github.com/T74Y)
 - Krystian - [@Krystianoo69](https://github.com/Krystianoo69)
